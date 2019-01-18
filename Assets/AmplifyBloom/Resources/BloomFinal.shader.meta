@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6e4f40cfbd18b3b469b5079288cea652
+timeCreated: 1455035619
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _LensDirt: {fileID: 2800000, guid: 7825356d1f1778140ad12b5dfe6b4d41, type: 3}
+  - _LensStarburst: {fileID: 2800000, guid: c2216a0fed1c98742b826a85db28021c, type: 3}
+  - _MainTex: {instanceID: 0}
+  - _LensFlare: {instanceID: 0}
+  - _LensGlare: {instanceID: 0}
+  - _AnamorphicRTS0: {instanceID: 0}
+  - _AnamorphicRTS1: {instanceID: 0}
+  - _AnamorphicRTS2: {instanceID: 0}
+  - _AnamorphicRTS3: {instanceID: 0}
+  - _AnamorphicRTS4: {instanceID: 0}
+  - _AnamorphicRTS5: {instanceID: 0}
+  - _AnamorphicRTS6: {instanceID: 0}
+  - _AnamorphicRTS7: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

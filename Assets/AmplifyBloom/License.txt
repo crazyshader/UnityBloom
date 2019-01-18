@@ -1,0 +1,126 @@
+SOFTWARE - Amplify Bloom Trial Edition - EULA
+
+This End-User License Agreement (EULA) is a legal agreement between you, company or individual, 
+and Amplify Creations, developer of the software product stated above. This agreement shall refer 
+hereafter to the Software as the “PRODUCT” and also applies to all other forms of data included 
+in the product package. 
+
+By installing, copying, or otherwise using the PRODUCT, you agree to be bounded by the terms of 
+this EULA. If you do not agree to the terms of this EULA, do not install or use the PRODUCT.
+
+Amplify Creations grants you the non-exclusive right to use any supplied logo, images or videos, 
+for promotional reasons. You may edit, use or incorporate any promotional media in your projects, 
+if you choose to, as long as the PRODUCT name, or the developer name (Amplify Creations), or web 
+link (www.amplify.pt) is visible. This excludes any 3rd party media unrelated to Amplify Creations, 
+for example, other licensees work. 
+
+This agreement does not represent in any form a legal partnership between the two parties involved.
+
+LICENSE
+
+Amplify Creations hereby grants you, individual or company, hereafter the USER, non-transferable 
+and non-exclusive rights to install the PRODUCT in desktop computers (“WORKSTATIONS”), to use and 
+derive works from, exclusively for non-commercial PRODUCT evaluation purposes.
+
+The use of Trial Versions of the PRODUCT in conjunction with purchased versions of the PRODUCT is 
+not permitted, even if in different WORKSTATIONS. Amplify Creations provides bulk licensing if 
+required.
+
+Amplify Creations does not grant you the right to distribute Paid Software containing works derived 
+from the PRODUCT. Promotional Free Software derived from the PRODUCT may only be distributed if such 
+works display the Amplify Creations company and PRODUCT watermark/logo throughout the execution of 
+the Software.
+
+TERM AND TERMINATION
+
+This EULA, effective immediately upon the conditions stated above, shall not transfer to other major 
+versions of the PRODUCT or come to an end with the exception of direct breach of the terms stated.
+
+USER shall be entitled to any public update made to the PRODUCT.
+
+Amplify Creations may terminate this EULA if you fail to comply with the terms and conditions of 
+this EULA after the agreement is in effect. In such event, you must destroy all copies of the 
+PRODUCT.
+
+Amplify Creations reserves the right to terminate this agreement if the PRODUCT is used or 
+implicated in any possible type of illegal activities.
+
+USER RIGHTS & RESTRICTIONS
+
+USER may install, remove, copy, execute and derive works from the PRODUCT on any WORKSTATION 
+exclusively belonging to the company or individual.
+
+USER may not distribute, share or disclose any information marked confidential portraying to the 
+PRODUCT, freely or paid, to any outside, 3rd parties.
+
+Reverse engineering, disassembly of object code or any alterations of the PRODUCT not permitted in 
+the USER rights is strictly forbidden.
+
+OWNERSHIP
+
+USER understands that the PRODUCT is licensed and not sold, Amplify Creations retains all rights and 
+ownership of the PRODUCT and any related media included/shared.
+
+Rights of work derived from the PRODUCT are the sole propriety of the USER, however, as stated 
+above, distribution for commercial or non-commercial reasons is forbidden, with the exception of 
+promotional material as stated in this document.
+
+Amplify Creations reserves the right to use any media made public by the USER derived from the use 
+of the PRODUCT. Strictly for promotional purposes, USER ownership of the media shall be clearly 
+stated and web links to original works shall be visible, where applicable.
+
+SUPPORT
+
+Free limited support may be provided via email if the USER inquire adheres to Amplify Creations 
+Support Policy. Check http://amplify.pt/support for more information.
+
+Paid support shall be provided without any limitations, unless stated in the Paid Support Agreement 
+that accompanies the PRODUCT, if applicable.
+
+WARRANTY & LIABILITY
+
+Amplify Creations the Author of this PRODUCT disclaims any warranty for the PRODUCT. The PRODUCT 
+and any related documentation or media is provided "as is" without any type of warranty, either 
+express or implied, including, without limitation, the implied warranties or merchantability, 
+fitness for a particular purpose, or non-infringement.
+
+Under no circumstances, including negligence, will Amplify Creations and other parties involved 
+in the creation, testing, marketing and distribution of the PRODUCT or accompanying content, be 
+liable to any other party for any direct, incidental or other type of unforeseen influence or 
+action that may result in punitive consequential damages, including but not limited to, data loss, 
+business interruption, loss of revenue, loss of use, software malfunction, hardware damage or 
+inflicted business delays. Amplify Creations shall not be liable under any circumstances for any 
+misuse of the PRODUCT or accompanying content by the USER, 3rd party Copyright violation included 
+but not limited to.
+
+GOVERNING LAW
+
+This Agreement shall be exclusively governed by the laws of Portugal pertaining to, but not limited 
+to, software development and distribution of electronic goods, a member state of the European Union. 
+In case of a dispute, only a court of that country shall have jurisdiction.
+
+REMEDIES
+
+In the event of Licensee breach of this Agreement, Licensee shall promptly destroy all copies of 
+the PRODUCT. A breach by Licensee will irrevocably harm Amplify Creations making it entitled to 
+injunctive and/or other equitable relief, in addition to other remedies afforded by law.
+
+SEVERABILITY
+
+If any term of this Agreement is declared unenforceable or void by any court of competent 
+jurisdiction, such decision shall not affect the remaining terms stated.
+
+WAIVER
+
+Failure of either party to enforce the rights, reserved or stated in this document, or to take 
+action against another party in the event of a breach, shall not be deemed a waiver of said rights.
+
+GENERAL
+
+Legally, this Agreement represents the entire agreement between Amplify Creations and Licensee and 
+supersedes any other prior communication or any implied understanding.
+
+If you have any questions regarding this EULA, please contact us directly via email before using 
+the PRODUCT at info@amplify.com.
+
+Copyright (c) 2015 Amplify Creations, Lda. All rights reserved.

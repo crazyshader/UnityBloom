@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneLoader.unity
+    guid: a374f8257d97e4e4395f5273ec87c972
+  - enabled: 1
+    path: Assets/Scenes/UnityBloom.unity
+    guid: 92b6682fc6f5ef7429f66bb460fb596d
+  - enabled: 1
+    path: Assets/Scenes/KinoBloom.unity
+    guid: f9df402466e9b3b4bb39a197172d5026
+  - enabled: 1
+    path: Assets/Scenes/UltimateBloom.unity
+    guid: e2b68e82324bb1f4aad063612459b604
+  - enabled: 1
+    path: Assets/Scenes/FastMobileBloom.unity
+    guid: e9f58713180f25644b966039b01dc192
+  - enabled: 1
+    path: Assets/Scenes/AmplifyBloom.unity
+    guid: ae03c80b26dd8da4aac7d828d916c70f
+  - enabled: 1
+    path: Assets/Scenes/BlurPostProcess.unity
+    guid: 7b2b7a2a0145ca24689690bd67f7dc7b
+  m_configObjects: {}
