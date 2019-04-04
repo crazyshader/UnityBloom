@@ -27,3 +27,15 @@ UltimateBloom | 30
 - https://community.arm.com/graphics/b/blog/posts/post-processing-effects-on-mobile-optimization-and-alternatives
 
 注意：在Unity5.4.5上面后处理和抗锯齿需要开启Use 32-bit Display Buffer，否则显示出现问题，后来验证在unity2018.3没有问题，只是效果缺失
+
+Unity 关于崩坏3Bloom（部分泛光）效果实现原理
+- https://blog.csdn.net/SnoopyNa2Co3/article/details/85246042
+- https://blog.csdn.net/SnoopyNa2Co3/article/details/87947553
+- https://blog.csdn.net/SnoopyNa2Co3/article/details/88075047
+
+- https://github.com/gam0022/image-effect-stencil-test
+- http://qiankanglai.me/2015/03/07/unity-posteffect-stencil/
+- https://cowlevel.net/article/1917881
+- https://answers.unity.com/questions/621279/using-the-stencil-buffer-in-a-post-process.html
+- https://forum.unity.com/threads/unity-5-6-0f3-empty-stencil-buffer-onrenderimage.473444/
+- https://zhuanlan.zhihu.com/p/31126847
